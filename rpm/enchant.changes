@@ -1,0 +1,16 @@
+* Sat Apr 10 2010 Anas Nashif <anas.nashif@intel.com> - 1.5.0
+- Fixed rpmlint errors
+
+* Mon Mar 29 2010 Anas Nashif <anas.nashif@intel.com> - 1.5.0
+- Remove Voikko support
+
+* Sun Mar 07 2010 Anas Nashif <anas.nashif@intel.com> - 1.5.0
+- Remove Epoch
+- Use spectacle
+
+* Mon Feb 08 2010 Anas Nashif <anas.nashif@intel.com> - 1.5.0
+- Fixed RPM Group
+
+* Wed Dec 23 2009 Anas Nashif <anas.nashif@intel.com> - 1.5.0
+- Update to 1.5.0
+
